@@ -1,0 +1,39 @@
+Searching 3990 files for "show_parameter_base_on_profit()"
+
+/Users/yusufpangaribuan/Documents/PR/ebako/ebako-costing/ebako_costing.sql:
+    File too large, skipping
+
+/Users/yusufpangaribuan/Documents/PR/ebako/ebako-costing/application/views/costing_pricelist/view.php:
+   52  															<input type="radio" name="price_list_base_on" id="pricelist__price_list_base_on_rate" checked="checked" value="rate" onclick="show_parameter_base_on_ratevalue()" style="width: 20px;height: 20px;vertical-align: bottom;"> 
+   53  																<b>Rate</b> &nbsp;&nbsp;&nbsp;
+   54: 															<input type="radio" name="price_list_base_on" id="pricelist__price_list_base_on_profit" value="profit" style="width: 20px;height: 20px;vertical-align: bottom;" onclick="show_parameter_base_on_profit()"> 
+   55  																<b>Profit (%)</b>
+   56  														</center>
+
+/Users/yusufpangaribuan/Documents/PR/ebako/ebako-costing/application/views/costing_pricereview/view.php:
+   49                                          <label class="col-sm-6 control-label" for="ratevalue"><b>Price Review Options</b></label>
+   50                                          <div class="col-sm-8">
+   51:                                             <input type="radio" name="price_review_base_on" id="pricereview__price_review_base_on_rate" checked="checked" value="c1" onclick="show_parameter_base_on_profit()" style="width: 20px;height: 20px;vertical-align: bottom;"> 
+   52                                              <b>Fix Currency, Fix Margin, Price Conditional</b> <br>
+   53:                                             <input type="radio" name="price_review_base_on" id="pricereview__price_review_base_on_profit" value="c2" style="width: 20px;height: 20px;vertical-align: bottom;" onclick="show_parameter_base_on_profit()"> 
+   54                                              <b>Fix Currency, Fix Price, Margin Conditional</b><br>
+   55                                              <input type="radio" name="price_review_base_on" id="pricereview__price_review_base_on_profit" value="c3" style="width: 20px;height: 20px;vertical-align: bottom;" onclick="show_parameter_base_on_ratevalue()"> 
+
+/Users/yusufpangaribuan/Documents/PR/ebako/ebako-costing/db/ebako_costing.backup:
+    File too large, skipping
+
+/Users/yusufpangaribuan/Documents/PR/ebako/ebako-costing/js/costing_pricelist.js:
+    5  }
+    6  
+    7: function show_parameter_base_on_profit(){
+    8  	$(".group__rate_range").hide();
+    9  	$(".group__profit_range").show();
+
+/Users/yusufpangaribuan/Documents/PR/ebako/ebako-costing/js/costing_pricereview.js:
+    5  }
+    6  
+    7: function show_parameter_base_on_profit(){
+    8  	$(".group__rate_range").hide();
+    9  	$(".group__profit_range").show();
+
+5 matches across 4 files

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/views/costing/view.php</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/views/costing_pricelist/print_preview_cost_sheet.php</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/js/costing_pricelist.js</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/js/costing_pricereview.js</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/controllers/costing_pricereview.php</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/controllers/costing.php</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/views/costing_pricereview/print_costing_pricereview.php</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/views/costing_pricelist/print_costing_pricelist.php</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/models/model_costing.php</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/views/costing_pricereview/view.php</file>
+            <file>file:/D:/htdocs/ebako/ebako-costing/application/controllers/costing_pricelist.php</file>
+        </group>
+    </open-files>
+</project-private>
